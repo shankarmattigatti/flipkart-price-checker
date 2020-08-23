@@ -1,0 +1,7 @@
+{
+    "Service": "gmail",
+    "Username": "example@gmail.com",
+    "Password": "password",
+    "Receivers": "example@gmail.com",
+    "IntervalInMilliseconds": 3.6e+6
+}
