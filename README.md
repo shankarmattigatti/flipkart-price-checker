@@ -1,6 +1,6 @@
 # Flipkart Price Checker
 
-A Node.js application to track Flipkart's prices of a given product and sends email if the product price drop then the minimum price. 
+A Node.js application to track Flipkart's prices of a given product and sends emails if the product price drop then the minimum price. 
 
 ### Prerequisite
 
@@ -16,7 +16,7 @@ $ node index.js flipkart_product_url min_price
 
 ### Example
 - Visit www.flipkart.com, search for the product then grab the URL.
-- Run following command:
+- Run the following command:
 
 <pre>
 
